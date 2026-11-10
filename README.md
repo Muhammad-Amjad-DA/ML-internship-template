@@ -24,3 +24,4 @@ Which page-level features are most associated with stronger Google search rankin
 Do not publish private client names, private URLs, credentials, private queries, or raw confidential exports.
 
 The notebook is designed to adapt to common ranking-dataset column names and will tell you what to change when your column names differ.
+ 
